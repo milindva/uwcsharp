@@ -10,7 +10,7 @@
         <TextBlock FontSize="14">Enter Name:</TextBlock>
         <TextBox x:Name="uxName" TextChanged="uxName_TextChanged" Background="#FFF0F0E4" FontSize="16"></TextBox>
         <TextBlock FontSize="14">Enter Password:</TextBlock>
-        <TextBox x:Name="uxPassword" TextChanged="uxPassword_TextChanged" Background="#FFDFF5F4" FontSize="16"></TextBox>
+        <PasswordBox x:Name="uxPassword" PasswordChanged="uxPassword_PasswordChanged" HorizontalAlignment="Left" Height="43" Width="517" FontSize="10"/>
         <Button x:Name="uxSubmit" IsEnabled="False" Click="uxSubmit_Click" Background="#FFF07373" IsDefault="True">Submit</Button>
     </StackPanel>
 </Window>

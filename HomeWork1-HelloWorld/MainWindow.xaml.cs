@@ -34,7 +34,7 @@ namespace HelloWorld
 
         private void uxSubmit_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Submitting password:" + uxPassword.Text);
+            MessageBox.Show("Submitting password:" + uxPassword.Password);
 
             //Clear contents of both the text boxes after submit button is clicked
             // and set the focus back to Name text box
@@ -46,8 +46,8 @@ namespace HelloWorld
             uxSubmit.IsEnabled = false;
 
             uxName.Focus();
-
-
+            uxNameHasText = false;
+            uxPasswordHasText = false;
             
         }
 
@@ -70,18 +70,17 @@ namespace HelloWorld
         }
 
 
-        private void uxPassword_TextChanged(object sender, TextChangedEventArgs e)
+ 
+        private void uxPassword_PasswordChanged(object sender, RoutedEventArgs e)
         {
-
             // check if there is at least one character entered in Password text box
-            if (uxPassword.Text.Length > 0)
+
+            if (uxPassword.Password.Length > 0)
                 uxPasswordHasText = true;
 
             ValidateSubmitEnabled();
+
         }
-
-
-
     }
 }
 
