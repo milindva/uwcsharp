@@ -56,6 +56,8 @@ namespace HelloWorld
         {
             if (uxNameHasText == true && uxPasswordHasText == true)
                 uxSubmit.IsEnabled = true;
+            else
+                uxSubmit.IsEnabled = false;
 
         }
 
@@ -65,6 +67,8 @@ namespace HelloWorld
             // check if there is at least one character entered in Name text box
             if (uxName.Text.Length > 0)
                 uxNameHasText = true;
+           else
+              uxNameHasText = false;
 
             ValidateSubmitEnabled();
         }
@@ -77,6 +81,8 @@ namespace HelloWorld
 
             if (uxPassword.Password.Length > 0)
                 uxPasswordHasText = true;
+            else
+               uxPasswordHasText = false;
 
             ValidateSubmitEnabled();
 
