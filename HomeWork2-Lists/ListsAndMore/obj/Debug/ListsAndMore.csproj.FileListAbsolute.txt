@@ -1,0 +1,6 @@
+D:\Source\uwcsharp\HomeWork2-Lists\ListsAndMore\bin\Debug\ListsAndMore.exe.config
+D:\Source\uwcsharp\HomeWork2-Lists\ListsAndMore\bin\Debug\ListsAndMore.exe
+D:\Source\uwcsharp\HomeWork2-Lists\ListsAndMore\bin\Debug\ListsAndMore.pdb
+D:\Source\uwcsharp\HomeWork2-Lists\ListsAndMore\obj\Debug\ListsAndMore.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\HomeWork2-Lists\ListsAndMore\obj\Debug\ListsAndMore.exe
+D:\Source\uwcsharp\HomeWork2-Lists\ListsAndMore\obj\Debug\ListsAndMore.pdb
