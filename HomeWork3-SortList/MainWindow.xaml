@@ -1,0 +1,25 @@
+﻿<Window x:Class="HelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWorld"
+        mc:Ignorable="d"
+        Title="Hello World!" Height="350" Width="525" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <StackPanel x:Name="uxContainer" Background="#FFD6C3C3"  >
+        <TextBox x:Name="uxInput" />
+        <Label Content="{Binding Text, ElementName=uxInput}" />
+        <TextBlock FontSize="14">Enter Name:</TextBlock>
+        <TextBox x:Name="uxName" TextChanged="uxName_TextChanged" Background="#FFF0F0E4" FontSize="16"></TextBox>
+        <TextBlock FontSize="14">Enter Password:</TextBlock>
+        <PasswordBox x:Name="uxPassword" PasswordChanged="uxPassword_PasswordChanged" FontSize="16" />
+        <Button x:Name="uxSubmit" IsEnabled="False" Click="uxSubmit_Click" Background="#FFF07373" IsDefault="True">Submit</Button>
+        <Button x:Name="button" HorizontalAlignment="Center" Height="26" Width="517" VerticalAlignment="Center">
+            <CheckBox x:Name="checkBox" Checked="checkBox_Checked" Content="Check Me" FontSize="11"/>
+        </Button>
+
+
+      
+
+    </StackPanel>
+</Window>

@@ -1,0 +1,88 @@
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\bin\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\MainWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\App.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\MainWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld.g.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Source\uwcsharp\HomeWork1-HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld.exe
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Source\uwcsharp\HomeWork1-HelloWorld\bin\Debug\HelloWorld.exe
+D:\Source\uwcsharp\HomeWork1-HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\MainWindow.g.cs
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\App.g.cs
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\MainWindow.baml
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld.g.resources
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Source\uwcsharp\HomeWork1-HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\MainWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\App.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\bin\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\bin\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\MainWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld.g.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\Exercises\HomeWork1-HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\MainWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\App.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld_MarkupCompile.lref
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\MainWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld.g.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\PanelWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\PanelWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\SecondWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\SecondWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\EntityFramework.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\EntityFramework.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\bin\Debug\EntityFramework.SqlServer.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HelloWorld\obj\Debug\HelloWorld_Content.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\HelloWorld.exe.config
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\HelloWorld.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\HelloWorld.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\EntityFramework.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\EntityFramework.SqlServer.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\EntityFramework.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\bin\Debug\EntityFramework.SqlServer.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\MainWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\PanelWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\SecondWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\App.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld_Content.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld_MarkupCompile.lref
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\MainWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\PanelWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\SecondWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.g.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
