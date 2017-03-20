@@ -1,0 +1,14 @@
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\bin\Debug\ZipCodeValidation.exe.config
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\bin\Debug\ZipCodeValidation.exe
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\bin\Debug\ZipCodeValidation.pdb
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\MainWindow.g.cs
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\App.g.cs
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation_MarkupCompile.cache
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation_MarkupCompile.lref
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\MainWindow.baml
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation.g.resources
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation.Properties.Resources.resources
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation.csproj.GenerateResource.Cache
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation.exe
+D:\Source\uwcsharp\HomeWork4-ZipCodes\ZipCodeValidation\obj\Debug\ZipCodeValidation.pdb

@@ -86,3 +86,26 @@ D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWor
 D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.g.resources
 D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.Properties.Resources.resources
 D:\UW-C#\Course 2 - Creating Client Applications in C#\ClassPrograms\WPF\HomeWork3\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\HelloWorld.exe.config
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld.exe
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld.pdb
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\HelloWorld.exe
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\HelloWorld.pdb
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\EntityFramework.dll
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\EntityFramework.xml
+D:\Source\uwcsharp\HomeWork3-SortList\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\MainWindow.g.cs
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\PanelWindow.g.cs
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\SecondWindow.g.cs
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\App.g.cs
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld_Content.g.cs
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld_MarkupCompile.cache
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld_MarkupCompile.lref
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\MainWindow.baml
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\PanelWindow.baml
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\SecondWindow.baml
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld.g.resources
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Source\uwcsharp\HomeWork3-SortList\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
