@@ -1,0 +1,48 @@
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\InventoryProject.exe.config
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\InventoryProject.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\InventoryProject.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject.csprojResolveAssemblyReference.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\View\MainWindow.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\App.g.cs
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject_MarkupCompile.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject_MarkupCompile.lref
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\View\MainWindow.baml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject.g.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject.Properties.Resources.resources
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject.csproj.GenerateResource.Cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject.exe
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\obj\Debug\InventoryProject.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\EntityFramework.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\InventoryDataModel.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\InventoryDataModel.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\EntityFramework.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\uwcsharp\InventoryProject\bin\Debug\InventoryProject.exe.config
+D:\Source\uwcsharp\InventoryProject\obj\Debug\InventoryProject.exe
+D:\Source\uwcsharp\InventoryProject\obj\Debug\InventoryProject.pdb
+D:\Source\uwcsharp\InventoryProject\obj\Debug\InventoryProject.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\InventoryProject\obj\Debug\View\MainWindow.g.cs
+D:\Source\uwcsharp\InventoryProject\obj\Debug\App.g.cs
+D:\Source\uwcsharp\InventoryProject\obj\Debug\InventoryProject_MarkupCompile.cache
+D:\Source\uwcsharp\InventoryProject\obj\Debug\InventoryProject_MarkupCompile.lref
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\InventoryProject.exe.config
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject.exe
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject.pdb
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\InventoryProject.exe
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\InventoryProject.pdb
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\EntityFramework.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\InventoryDataModel.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\InventoryDataModel.pdb
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\EntityFramework.xml
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\View\MainWindow.g.cs
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\App.g.cs
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject_MarkupCompile.cache
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject_MarkupCompile.lref
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\View\MainWindow.baml
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject.g.resources
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject.Properties.Resources.resources
+D:\Source\uwcsharp\HomeWork-Project\InventoryProject\obj\Debug\InventoryProject.csproj.GenerateResource.Cache

@@ -1,0 +1,20 @@
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\InventoryDataModel.dll.config
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\InventoryDataModel.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\InventoryDataModel.pdb
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\EntityFramework.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\EntityFramework.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\obj\Debug\InventoryDataModel.csprojResolveAssemblyReference.cache
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\obj\Debug\InventoryDataModel.dll
+D:\UW-C#\Course 2 - Creating Client Applications in C#\test\InventoryDataModel\obj\Debug\InventoryDataModel.pdb
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\InventoryDataModel.dll.config
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\InventoryDataModel.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\InventoryDataModel.pdb
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\EntityFramework.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\EntityFramework.xml
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\obj\Debug\InventoryDataModel.csprojResolveAssemblyReference.cache
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\obj\Debug\InventoryDataModel.dll
+D:\Source\uwcsharp\HomeWork-Project\InventoryDataModel\obj\Debug\InventoryDataModel.pdb
