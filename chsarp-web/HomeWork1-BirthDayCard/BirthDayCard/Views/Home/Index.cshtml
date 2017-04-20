@@ -1,0 +1,26 @@
+﻿<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<style>
+    .btn a {
+        color: white;
+        text-decoration: none;
+    }
+
+    body {
+        background-color: #f1f1f1;
+    }
+</style>
+
+
+@{
+    ViewBag.Title = "BirthdayCard generator";
+    
+}
+
+<div class="text-center">
+<h3>Send a birthday Message.</h3>
+@*<a href="/home/birthdaycardform">Submit</a>*@
+    <div class="btn btn-success">
+        @Html.ActionLink( "Submit to proceed", "BirthDayMessageForm")
+    </div>
+</div>
+
