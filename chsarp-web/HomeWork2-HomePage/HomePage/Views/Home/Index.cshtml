@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="navbar navbar-inverse navbar-right">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+        
+            </button>
+            @*@Html.ActionLink("Register", "LogIn", new { area = "" }, new { @class = "navbar-brand" })*@
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Register", "Register", "Home")</li>
+                <li>@Html.ActionLink("Log In", "LogIn", "Home")</li>
+                
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="jumbotron">
+    <h1>The Learning Center</h1>
+    <h4>The place for technology classes.</h4>
+    @*<p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>*@
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2> <a href=""> Class List </a> </h2>
+        <p>
+            See all our class offerings.
+        </p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>*@
+    </div>
+    <div class="col-md-4">
+        <h2> <a href="">Your Enrolled classes</a></h2>
+        <p>See the classes you are enrolled in.</p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>*@
+    </div>
+    <div class="col-md-4">
+        <h2><a href="">Enroll in a class</a></h2>
+        <p>Take a new class.</p>
+        @*<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>*@
+    </div>
+
+</div>
