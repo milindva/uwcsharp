@@ -1,0 +1,57 @@
+﻿@model cstructor.website.Models.IndexModel
+
+@{
+    ViewBag.Title = "Class List Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+ @*@{
+        ViewBag.Title = "Class List Page";
+    }*@
+
+    @*<div class="jumbotron">
+        <h1>Mini-Cstructor</h1>
+        <p class="lead">Classes to learn from.</p>
+    </div>
+
+<div class="row">
+    @foreach (var cls in Model.Classes)
+    {
+        <div class="col-md-4">
+            <h3>@Html.ActionLink(cls.Name, "Class", new { id = cls.Id } ) </h3>
+        </div>
+    }
+
+</div>*@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Classes</title>
+</head>
+<body>
+    <h4>Classes</h4>
+    <hr />
+    <table cellpadding="0" cellspacing="0" border="1">
+        <tr>
+            <th>ClassName</th>
+            <th>Description</th>
+            <th>Price</th>
+
+        </tr>
+        @foreach (var cls in Model.Classes)
+        {
+            <tr>
+                <td>@cls.Name</td>
+                <td>@cls.Description</td>
+                <td>@String.Format("{0:C}", @cls.Price)</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
+
+<div>
+    @Html.ActionLink("Back to main page", "Index")
+</div>

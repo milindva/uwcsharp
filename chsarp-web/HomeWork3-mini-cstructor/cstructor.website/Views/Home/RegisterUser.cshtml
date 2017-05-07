@@ -1,0 +1,29 @@
+﻿@model cstructor.Business.UserModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<h4>  Register a new user </h4>
+<html>
+<body>
+    @{
+        Layout = null;
+    }
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+
+        <p>Email: @Html.TextBoxFor(t => t.Email)</p>
+        <p>Password:@Html.PasswordFor(t => t.Password)</p>
+        @*<p>Confirm Password: @Html.PasswordFor(t => t.ConfirmPassword)</p>*@
+
+        <input class="btn btn-success" type="submit" value="Register" />
+    }
+
+</body>
+</html>
+

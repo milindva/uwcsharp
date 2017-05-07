@@ -1,0 +1,18 @@
+﻿@model cstructor.website.Models.ClassModel
+
+@{
+    ViewBag.Title = "EnrollInAClass";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    <h2>Enroll in Classes</h2>
+
+   
+
+    @Html.DropDownList("ClassesToEnroll")
+    <input type="submit" value="Add Class" />
+}
+
